@@ -65,8 +65,8 @@ public class Main {
         //10 + 5 - 9.61
         System.out.println(a + b - e);
 
-        int x = 10;
-        int y = 10 % 4;
+        int x = 20;
+        int y = 20 % 4;
         System.out.println(y);
 
 
